@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@yashgoswami137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashgoswami137" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashpal goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpal goswami" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yashpal-goswami-48375a208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashpal goswami" height="30" width="40" /></a>
 <a href="https://instagram.com/yash_pal_goswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash_pal_goswami" height="30" width="40" /></a>
 <a href="https://medium.com/@yashpalgoswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashpalgoswami" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/profile/overview rank on hack the box" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker rank on hack the box" height="30" width="40" /></a>
