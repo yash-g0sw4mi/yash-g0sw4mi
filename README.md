@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-g0sw4mi" alt="yash-g0sw4mi" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/yashgoswami137" target="blank"><img src="https://img.shields.io/twitter/follow/yashgoswami137?logo=twitter&style=for-the-badge" alt="yashgoswami137" /></a> </p>
+
 - 🌱 I’m currently learning **Ethical Hacking And Penetration Testing**
 
 - 💬 Ask me about **Web Application Penetration Testing And Network Penetration Testing**
@@ -15,13 +17,17 @@
 
 - ⚡ Fun fact **I think I enjoy hacking (legally, of course!) and protecting computer systems from cyber threats. Keeping up the great work!**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@yashgoswami137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@yashgoswami137" height="30" width="40" /></a>
+<a href="https://twitter.com/yashgoswami137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashgoswami137" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashpal-goswami-48375a208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashpal-goswami-48375a208/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yash_pal_goswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash_pal_goswami/" height="30" width="40" /></a>
-<a href="https://medium.com/@giryashpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@giryashpal" height="30" width="40" /></a>
-<a href="https://app.hackthebox.com/profile/overview rank on hack the box" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker rank on hack the box" height="30" width="40" /></a>
+<a href="https://medium.com/@giryashpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@giryashpal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hacker rank on hack the box" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker rank on hack the box" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
