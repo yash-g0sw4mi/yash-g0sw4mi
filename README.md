@@ -1,7 +1,5 @@
-![MasterHead](https://www2.deloitte.com/content/dam/insights/articles/7147_cso-podcast/primary/7147_Banner.jpg/jcr:content/renditions/cq5dam.web.1920.400.jpeg)
 <h1 align="center">Hi 👋, I'm Yashpal Goswami</h1>
 <h3 align="center">A Cyber Security Enthusiast and a Web Application Penetration Tester eXtreme (eWPTXv2) Certificate Holder</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-g0sw4mi&label=Profile%20views&color=0e75b6&style=flat" alt="yash-g0sw4mi" /> </p>
 
@@ -15,17 +13,11 @@
 
 - ⚡ Fun fact **I think I enjoy hacking (legally, of course!) and protecting computer systems from cyber threats. Keeping up the great work!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashgoswami137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashgoswami137" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashpal-goswami-48375a208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashpal-goswami-48375a208/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yash_pal_goswami/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yash_pal_goswami/" height="30" width="40" /></a>
-<a href="https://medium.com/@giryashpal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@giryashpal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hacker rank on hack the box" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hacker rank on hack the box" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
