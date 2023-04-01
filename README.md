@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-g0sw4mi&label=Profile%20views&color=0e75b6&style=flat" alt="yash-g0sw4mi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-g0sw4mi" alt="yash-g0sw4mi" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yashgoswami137" target="blank"><img src="https://img.shields.io/twitter/follow/yashgoswami137?logo=twitter&style=for-the-badge" alt="yashgoswami137" /></a> </p>
 
 - 🌱 I’m currently learning **Ethical Hacking And Penetration Testing**
@@ -34,3 +32,5 @@
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-g0sw4mi&show_icons=true&locale=en" alt="yash-g0sw4mi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-g0sw4mi&" alt="yash-g0sw4mi" /></p>
