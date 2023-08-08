@@ -1,6 +1,6 @@
 ![MasterHead](https://www2.deloitte.com/content/dam/insights/articles/7147_cso-podcast/primary/7147_Banner.jpg/jcr:content/renditions/cq5dam.web.1920.400.jpeg)
 <h1 align="center">Hi 👋, I'm Yashpal Goswami</h1>
-<h3 align="center">A Cyber Security Enthusiast and a Web Application Penetration Tester eXtreme (eWPTXv2) Certificate Holder</h3>
+<h3 align="center">"Passionate about cybersecurity, I hold the OSCP (Offensive Security Certified Professional) and eWPTXv2 (eLearnSecurity Web Application Penetration Tester eXtreme v2) certifications. Exploring the realms of ethical hacking and sharing insights in the world of digital defense."</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-g0sw4mi&label=Profile%20views&color=0e75b6&style=flat" alt="yash-g0sw4mi" /> </p>
